@@ -37,7 +37,6 @@
       }
     ],
     "tags": ["Linac", "Electron"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
     "is_consult": false
@@ -80,11 +79,9 @@
       }
     ],
     "tags": ["CS"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": false,
-    "is_consult": true,
-    "campus": 106
+    "is_consult": true
   },
   {
     "id": "P6BnzQKjuY7SEqw9XszubV",
@@ -124,7 +121,6 @@
       }
     ],
     "tags": ["Linac"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
     "is_consult": false
@@ -167,11 +163,9 @@
       }
     ],
     "tags": ["CT"],
-    "order": 0,
     "is_planning": true,
     "is_treatment": false,
-    "is_consult": false,
-    "campus": 106
+    "is_consult": false
   },
   {
     "id": "nKfQ8WbAykXdhTKJhFf7Xx",
@@ -211,7 +205,6 @@
       }
     ],
     "tags": ["MRI"],
-    "order": 0,
     "is_planning": true,
     "is_treatment": false,
     "is_consult": false
@@ -254,7 +247,6 @@
       }
     ],
     "tags": ["CK"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
     "is_consult": false
@@ -297,7 +289,6 @@
       }
     ],
     "tags": ["Linac"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
     "is_consult": false
@@ -340,7 +331,6 @@
       }
     ],
     "tags": ["MRI"],
-    "order": 0,
     "is_planning": true,
     "is_treatment": false,
     "is_consult": false
@@ -383,11 +373,9 @@
       }
     ],
     "tags": ["Linac"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
-    "is_consult": false,
-    "campus": 106
+    "is_consult": false
   },
   {
     "id": "EDrZ4ZsnvkiKep8axzWYJn",
@@ -427,7 +415,6 @@
       }
     ],
     "tags": ["PET"],
-    "order": 0,
     "is_planning": true,
     "is_treatment": false,
     "is_consult": false
@@ -470,11 +457,9 @@
       }
     ],
     "tags": ["Linac"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
-    "is_consult": false,
-    "campus": 106
+    "is_consult": false
   },
   {
     "id": "aCB5DD39ZYcp23tYkDz7tN",
@@ -514,7 +499,6 @@
       }
     ],
     "tags": ["Molding"],
-    "order": 0,
     "is_planning": true,
     "is_treatment": false,
     "is_consult": false
@@ -557,11 +541,9 @@
       }
     ],
     "tags": ["Linac"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
-    "is_consult": false,
-    "campus": 106
+    "is_consult": false
   },
   {
     "id": "h6N8aYZVwzb2DcNMHpt3sg",
@@ -601,7 +583,6 @@
       }
     ],
     "tags": ["Linac", "SBRT"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
     "is_consult": false
@@ -644,7 +625,6 @@
       }
     ],
     "tags": ["Linac"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
     "is_consult": false
@@ -687,7 +667,6 @@
       }
     ],
     "tags": ["Tomo"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
     "is_consult": false
@@ -730,7 +709,6 @@
       }
     ],
     "tags": ["CT", "DECT"],
-    "order": 0,
     "is_planning": true,
     "is_treatment": false,
     "is_consult": false
@@ -773,7 +751,6 @@
       }
     ],
     "tags": ["CS"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": false,
     "is_consult": true
@@ -816,7 +793,6 @@
       }
     ],
     "tags": ["CS"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": false,
     "is_consult": true
@@ -859,11 +835,9 @@
       }
     ],
     "tags": ["CS"],
-    "order": 0,
     "is_planning": false,
     "is_treatment": true,
-    "is_consult": true,
-    "campus": null
+    "is_consult": true
   },
   {
     "id": "ZvNzVJXPQV7Zxgxg7AhPtb",
@@ -903,7 +877,6 @@
       }
     ],
     "tags": ["CT"],
-    "order": 0,
     "is_planning": true,
     "is_treatment": false,
     "is_consult": false
