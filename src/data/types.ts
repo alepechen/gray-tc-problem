@@ -5,62 +5,62 @@ export interface Activity {
   kind: string;
   modality: string;
   duration: number;
-  default_duration: number;
-  default_staff: string | null;
-  default_location: string | null;
-  default_time: string | null;
+  defaultDuration: number;
+  defaultStaff: string | null;
+  defaultLocation: string | null;
+  defaultTime: string | null;
   category: string;
   tags: string[];
   color: string;
-  overlap_allowed: boolean;
+  overlapAllowed: boolean;
   characteristics: string[];
   cluster: Cluster["id"] | null;
 }
 
 export interface Appointment {
   id: string;
-  pat_id: string;
-  scheduled_time: string;
+  patId: string;
+  scheduledTime: string;
   duration: number;
-  apt_status: string;
+  aptStatus: string;
   technique: Activity["technique"];
-  technique_label: Activity["description"];
+  techniqueLabel: Activity["description"];
   kind: string;
   location: Resource["name"];
-  staff_booked: string | null;
+  staffBooked: string | null;
   comments: string;
-  time_constraint: string | null;
-  last_notified_time: string;
-  overlap_allowed: boolean;
-  date_modified: string;
-  date_when_booked: string;
+  timeConstraint: string | null;
+  lastNotifiedTime: string;
+  overlapAllowed: boolean;
+  dateModified: string;
+  dateWhenBooked: string;
   state: Record<string, string>;
 }
 
 export interface Cluster {
   id: number;
-  activities: string[];
+  activities: Activity["technique"][];
   name: string;
   color: string;
-  created_at: string;
-  updated_at: string;
+  createdAt: string;
+  updatedAt: string;
 }
 
 export interface OperatingHours {
-  open_time: string;
-  close_time: string;
+  openTime: string;
+  closeTime: string;
 }
 
 export interface Resource {
   id: string;
   name: string;
-  pretty_name: string;
+  prettyName: string;
   abbreviation: string;
   category: string;
   tags: string[];
-  is_planning: boolean;
-  is_treatment: boolean;
-  is_consult: boolean;
-  operating_hours: OperatingHours[];
-  emergency_minutes: number;
+  isPlanning: boolean;
+  isTreatment: boolean;
+  isConsult: boolean;
+  operatingHours: OperatingHours[];
+  emergencyMinutes: number;
 }
