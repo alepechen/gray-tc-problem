@@ -30,6 +30,7 @@ Your goal is to build a UI that:
 
 - Each appointment has a `technique` describing the treatment.  
 - A **cluster** definition may include multiple techniques that share the same setup procedure. 
+- We have provided sample data and type definitions for you. Feel free to adapt them to your needs.
 
 ## Deliverables
 
@@ -40,4 +41,4 @@ Your goal is to build a UI that:
 
 - Prioritize **intuitive, clean UX**  
 - Use a **calendar-style view**  
-- You may add or replace dependencies as needed  
+- You may add or replace dependencies as needed 
