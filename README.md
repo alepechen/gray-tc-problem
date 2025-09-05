@@ -1,5 +1,3 @@
-# GrayOS Technique Clustering Problem
-
 # GrayOS technique clustering challenge
 
 ## Background
