@@ -1,0 +1,911 @@
+[
+  {
+    "id": "Zc5rZLxtfkT9yH39qwmLVP",
+    "name": "Linac_A4",
+    "pretty_name": "Linac A4",
+    "abbreviation": "",
+    "category": "Versa - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Linac", "Electron"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false
+  },
+  {
+    "id": "b4R2ZVh8ZwkMM5KrhPjerF",
+    "name": "CS_room_B1",
+    "pretty_name": "Consult room B1",
+    "abbreviation": "",
+    "category": "Consult - Satellite (B)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "13:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "13:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "13:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "13:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "13:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "13:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "13:00"
+      }
+    ],
+    "tags": ["CS"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": false,
+    "is_consult": true,
+    "campus": 106
+  },
+  {
+    "id": "P6BnzQKjuY7SEqw9XszubV",
+    "name": "Linac_A1",
+    "pretty_name": "Linac A1",
+    "abbreviation": "",
+    "category": "Versa - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Linac"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false
+  },
+  {
+    "id": "TKmvxoqZagUWF9tY6gJMsr",
+    "name": "CT_B1",
+    "pretty_name": "CT B1",
+    "abbreviation": "",
+    "category": "CT - Satellite (B)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["CT"],
+    "order": 0,
+    "is_planning": true,
+    "is_treatment": false,
+    "is_consult": false,
+    "campus": 106
+  },
+  {
+    "id": "nKfQ8WbAykXdhTKJhFf7Xx",
+    "name": "MRI_A1",
+    "pretty_name": "MRI A1",
+    "abbreviation": "",
+    "category": "MRI - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["MRI"],
+    "order": 0,
+    "is_planning": true,
+    "is_treatment": false,
+    "is_consult": false
+  },
+  {
+    "id": "2ZFy4XxrXoffUEeGeqEAgh",
+    "name": "CK_A1",
+    "pretty_name": "CK A1",
+    "abbreviation": "",
+    "category": "CK - Main site (A)",
+    "emergency_minutes": 60,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["CK"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false
+  },
+  {
+    "id": "8oRupGxq9bBpmNQDTGazC4",
+    "name": "Linac_A2",
+    "pretty_name": "Linac A2",
+    "abbreviation": "",
+    "category": "Versa - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Linac"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false
+  },
+  {
+    "id": "4nKr45nmpPW7wZLNw74tpQ",
+    "name": "MRI_A2",
+    "pretty_name": "MRI A2",
+    "abbreviation": "",
+    "category": "MRI - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["MRI"],
+    "order": 0,
+    "is_planning": true,
+    "is_treatment": false,
+    "is_consult": false
+  },
+  {
+    "id": "Suqe2VFUtigo2atco4kMne",
+    "name": "Linac_B1",
+    "pretty_name": "Linac B1",
+    "abbreviation": "",
+    "category": "Truebeam - Satellite (B)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Linac"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false,
+    "campus": 106
+  },
+  {
+    "id": "EDrZ4ZsnvkiKep8axzWYJn",
+    "name": "PET_A1",
+    "pretty_name": "PET A1",
+    "abbreviation": "",
+    "category": "PET - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["PET"],
+    "order": 0,
+    "is_planning": true,
+    "is_treatment": false,
+    "is_consult": false
+  },
+  {
+    "id": "AWmUH3MTkVEmvgWCheRJcc",
+    "name": "Linac_B2",
+    "pretty_name": "Linac B2",
+    "abbreviation": "",
+    "category": "Truebeam - Satellite (B)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "15:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "15:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Linac"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false,
+    "campus": 106
+  },
+  {
+    "id": "aCB5DD39ZYcp23tYkDz7tN",
+    "name": "Molding_room_A1",
+    "pretty_name": "Molding room A1",
+    "abbreviation": "",
+    "category": "Molding - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Molding"],
+    "order": 0,
+    "is_planning": true,
+    "is_treatment": false,
+    "is_consult": false
+  },
+  {
+    "id": "dj4RidYPGApXWj4nXRomuR",
+    "name": "Linac_B3",
+    "pretty_name": "Linac B3",
+    "abbreviation": "",
+    "category": "Truebeam - Satellite (B)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "15:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "15:00"
+      }
+    ],
+    "tags": ["Linac"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false,
+    "campus": 106
+  },
+  {
+    "id": "h6N8aYZVwzb2DcNMHpt3sg",
+    "name": "Linac_A5",
+    "pretty_name": "Linac A5",
+    "abbreviation": "",
+    "category": "Versa - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Linac", "SBRT"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false
+  },
+  {
+    "id": "87cZxyq7ZfAc6vYhj62S6i",
+    "name": "Linac_A3",
+    "pretty_name": "Linac A3",
+    "abbreviation": "",
+    "category": "Versa - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Linac"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false
+  },
+  {
+    "id": "aabZA5PwibGaf7evzDqgyp",
+    "name": "Tomo_A1",
+    "pretty_name": "Tomo A1",
+    "abbreviation": "",
+    "category": "Tomo - Main site (A)",
+    "emergency_minutes": 60,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["Tomo"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": false
+  },
+  {
+    "id": "i28YaqYgU7ZE2brtyerpYp",
+    "name": "CT_A1",
+    "pretty_name": "CT A1",
+    "abbreviation": "CT A1",
+    "category": "CT - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["CT", "DECT"],
+    "order": 0,
+    "is_planning": true,
+    "is_treatment": false,
+    "is_consult": false
+  },
+  {
+    "id": "N38sC7gj2hGHfa5VMU4SrH",
+    "name": "CS_room_A1",
+    "pretty_name": "Consult room A1",
+    "abbreviation": "",
+    "category": "Consult - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["CS"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": false,
+    "is_consult": true
+  },
+  {
+    "id": "hyaTk9ZEYswAePQ4y2KQo4",
+    "name": "CS_room_A2",
+    "pretty_name": "Consult room A2",
+    "abbreviation": "",
+    "category": "Consult - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["CS"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": false,
+    "is_consult": true
+  },
+  {
+    "id": "gkhVR577NpymQJqfaRUoAz",
+    "name": "WaitingRoom",
+    "pretty_name": "Waiting Room",
+    "abbreviation": "",
+    "category": "location",
+    "emergency_minutes": 60,
+    "operating_hours": [
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "07:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["CS"],
+    "order": 0,
+    "is_planning": false,
+    "is_treatment": true,
+    "is_consult": true,
+    "campus": null
+  },
+  {
+    "id": "ZvNzVJXPQV7Zxgxg7AhPtb",
+    "name": "CT_A2",
+    "pretty_name": "CT A2",
+    "abbreviation": "CT A2",
+    "category": "CT - Main site (A)",
+    "emergency_minutes": 0,
+    "operating_hours": [
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      },
+      {
+        "open_time": "08:00",
+        "close_time": "17:00"
+      }
+    ],
+    "tags": ["CT"],
+    "order": 0,
+    "is_planning": true,
+    "is_treatment": false,
+    "is_consult": false
+  }
+]

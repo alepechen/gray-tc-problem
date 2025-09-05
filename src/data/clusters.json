@@ -1,0 +1,56 @@
+[
+  {
+    "id": 281,
+    "activities": ["BreVaclock", "BreVMATSupineTx"],
+    "name": "Breast",
+    "color": "#f745ad"
+  },
+  {
+    "id": 282,
+    "activities": ["H&NVMATTx"],
+    "name": "H&N",
+    "color": "#4782e1",
+    "created_at": "2025-09-04T19:03:59.875231-04:00",
+    "updated_at": "2025-09-04T19:03:59.875234-04:00"
+  },
+  {
+    "id": 283,
+    "activities": ["ProVMATSupineTx"],
+    "name": "Prostate",
+    "color": "#ff9e9e",
+    "created_at": "2025-09-04T19:03:59.875240-04:00",
+    "updated_at": "2025-09-04T19:03:59.875243-04:00"
+  },
+  {
+    "id": 284,
+    "activities": ["GynVMATSupineTx"],
+    "name": "Gyneco",
+    "color": "#bc05ff",
+    "created_at": "2025-09-04T19:03:59.875250-04:00",
+    "updated_at": "2025-09-04T19:03:59.875253-04:00"
+  },
+  {
+    "id": 285,
+    "activities": ["LunVMATTx"],
+    "name": "Lung",
+    "color": "#5ff2e1",
+    "created_at": "2025-09-04T19:03:59.875259-04:00",
+    "updated_at": "2025-09-04T19:03:59.875262-04:00"
+  },
+  {
+    "id": 286,
+    "activities": ["NeuLongVMATTx", "NeuShortVMATTx"],
+    "name": "Brain",
+    "color": "#3fb3d9",
+    "created_at": "2025-09-04T19:03:59.875268-04:00",
+    "updated_at": "2025-09-04T19:03:59.875271-04:00"
+  },
+  {
+    "id": 287,
+    "activities": ["SpineVMATTx"],
+    "name": "Spine",
+    "color": "#97990f",
+    "created_at": "2025-09-04T19:03:59.875277-04:00",
+    "updated_at": "2025-09-04T19:03:59.875280-04:00"
+  }
+]
