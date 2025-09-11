@@ -40,7 +40,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-23T14:11:56.693886-04:00",
-    "last_notified_time": "2023-08-07T08:00:00-04:00"
+    "last_notified_time": "2023-08-07T08:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "4KmxvWboC8c25fTwxYwTQi",
@@ -61,7 +62,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T15:48:39-04:00",
-    "last_notified_time": "2023-08-07T08:20:00-04:00"
+    "last_notified_time": "2023-08-07T08:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "LudMZ86dnQuWaEYGNgBiA3",
@@ -82,7 +84,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-20T15:54:59.824420-04:00",
-    "last_notified_time": "2023-08-07T09:10:00-04:00"
+    "last_notified_time": "2023-08-07T09:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "E2wpkFJitTufr8oTFt8oUm",
@@ -103,7 +106,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T10:14:47.018906-04:00",
-    "last_notified_time": "2023-08-07T09:30:00-04:00"
+    "last_notified_time": "2023-08-07T09:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "ZPRX3Qbx3ogouSpT89biCp",
@@ -124,7 +128,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:49:21.633547-04:00",
-    "last_notified_time": "2023-08-07T09:50:00-04:00"
+    "last_notified_time": "2023-08-07T09:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "2fAQFRxCkUBKF2TFDYV6j6",
@@ -145,7 +150,8 @@
     "technique_label": "Breast VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:52:52.253385-04:00",
-    "last_notified_time": "2023-08-07T10:10:00-04:00"
+    "last_notified_time": "2023-08-07T10:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "WGPiHKrgg8kKqrdwRmS9Tv",
@@ -166,7 +172,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:24:23.605509-04:00",
-    "last_notified_time": "2023-08-07T10:30:00-04:00"
+    "last_notified_time": "2023-08-07T10:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "d4h5Xp2dHxghfRbWGvUgVo",
@@ -187,7 +194,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-23T20:57:00.748695-04:00",
-    "last_notified_time": "2023-08-07T10:50:00-04:00"
+    "last_notified_time": "2023-08-07T10:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "JbN5D63WJzSPZfT4s9VZnW",
@@ -208,7 +216,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T15:59:54.831797-04:00",
-    "last_notified_time": "2023-08-07T11:20:00-04:00"
+    "last_notified_time": "2023-08-07T11:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "QAZKtYELoGzbJArGjxRrPG",
@@ -229,7 +238,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:29:22.876236-04:00",
-    "last_notified_time": "2023-08-07T11:40:00-04:00"
+    "last_notified_time": "2023-08-07T11:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "8py4LXhbXU7QtwMcjhL5Et",
@@ -250,7 +260,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-11T18:03:52.309870-04:00",
-    "last_notified_time": "2023-08-07T12:00:00-04:00"
+    "last_notified_time": "2023-08-07T12:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "QzREvZZywriMe8TDY2STSj",
@@ -271,7 +282,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-11T18:05:11.167305-04:00",
-    "last_notified_time": "2023-08-07T12:20:00-04:00"
+    "last_notified_time": "2023-08-07T12:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "UtZYYuM9VQgVpZHaFACDHN",
@@ -292,7 +304,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T15:38:31.104088-04:00",
-    "last_notified_time": "2023-08-07T12:50:00-04:00"
+    "last_notified_time": "2023-08-07T12:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "dBZLHTAMqEXeXskqKsV2BH",
@@ -313,7 +326,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:18:14.591461-04:00",
-    "last_notified_time": "2023-08-07T13:20:00-04:00"
+    "last_notified_time": "2023-08-07T13:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "BVxAk78kmurKNmHDKfchyi",
@@ -334,7 +348,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:59:03.814502-04:00",
-    "last_notified_time": "2023-08-07T13:40:00-04:00"
+    "last_notified_time": "2023-08-07T13:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "BM8Xnijk8W7FJ6wB2bKs6C",
@@ -355,7 +370,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-11T18:13:20.765195-04:00",
-    "last_notified_time": "2023-08-07T14:00:00-04:00"
+    "last_notified_time": "2023-08-07T14:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "JLzKWkS6r7H7qhzgNzD8XT",
@@ -376,7 +392,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:13:21.992651-04:00",
-    "last_notified_time": "2023-08-07T14:20:00-04:00"
+    "last_notified_time": "2023-08-07T14:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "njFCzN8LnnKhgSoDF3wtC2",
@@ -397,7 +414,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:23:19.528429-04:00",
-    "last_notified_time": "2023-08-07T14:40:00-04:00"
+    "last_notified_time": "2023-08-07T14:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "eutTfs8c8FXpLbuNa494MJ",
@@ -418,7 +436,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T15:13:31.776080-04:00",
-    "last_notified_time": "2023-08-07T15:10:00-04:00"
+    "last_notified_time": "2023-08-07T15:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "EYVUNKt5V5LN8TYzvyqtq6",
@@ -439,7 +458,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T17:19:40.613253-04:00",
-    "last_notified_time": "2023-08-07T15:40:00-04:00"
+    "last_notified_time": "2023-08-07T15:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "PrpeBzRs9TaETHw2QgFHjf",
@@ -460,7 +480,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:33:16.326565-04:00",
-    "last_notified_time": "2023-08-07T16:00:00-04:00"
+    "last_notified_time": "2023-08-07T16:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "dmdSygSEEgaciP99hSzHMT",
@@ -481,7 +502,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T16:03:47.423363-04:00",
-    "last_notified_time": "2023-08-07T16:30:00-04:00"
+    "last_notified_time": "2023-08-07T16:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "JiazXtaNC9g2Ac2CN9GL7U",
@@ -502,7 +524,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:39:24.893364-04:00",
-    "last_notified_time": "2023-08-07T07:20:00-04:00"
+    "last_notified_time": "2023-08-07T07:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "23nxkcAioGjqZZjqqoUt5j",
@@ -523,7 +546,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:14:17.932702-04:00",
-    "last_notified_time": "2023-08-07T07:40:00-04:00"
+    "last_notified_time": "2023-08-07T07:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "UdJNWqb9x3mJx8uYZbmxFJ",
@@ -544,7 +568,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-20T14:29:36.577656-04:00",
-    "last_notified_time": "2023-08-07T08:30:00-04:00"
+    "last_notified_time": "2023-08-07T08:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "JyEycZihDVmkiZs9XgXm9y",
@@ -565,7 +590,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T15:34:52.642018-04:00",
-    "last_notified_time": "2023-08-07T08:50:00-04:00"
+    "last_notified_time": "2023-08-07T08:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "K47qXHu2HPythhUf5xJPAq",
@@ -586,7 +612,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T19:05:06.655367-04:00",
-    "last_notified_time": "2023-08-07T09:10:00-04:00"
+    "last_notified_time": "2023-08-07T09:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "im8ymmkZyhuQiSqZPLXpcx",
@@ -607,7 +634,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:34:10.908717-04:00",
-    "last_notified_time": "2023-08-07T09:40:00-04:00"
+    "last_notified_time": "2023-08-07T09:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "oN8B7iUYwxYTi9RRxZTKaJ",
@@ -628,7 +656,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T15:27:21.947177-04:00",
-    "last_notified_time": "2023-08-07T10:00:00-04:00"
+    "last_notified_time": "2023-08-07T10:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "iRc36TipWuzRd4jtF4V65L",
@@ -649,7 +678,8 @@
     "technique_label": "Breast VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:47:43.383675-04:00",
-    "last_notified_time": "2023-08-07T10:20:00-04:00"
+    "last_notified_time": "2023-08-07T10:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "iz9RjMKz7BLLigtR7TG7KC",
@@ -670,7 +700,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T13:03:27.065320-04:00",
-    "last_notified_time": "2023-08-07T10:40:00-04:00"
+    "last_notified_time": "2023-08-07T10:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Gt2Wgpp3cbK4zwvaevcQdE",
@@ -691,7 +722,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-10T13:44:02.395878-04:00",
-    "last_notified_time": "2023-08-07T11:40:00-04:00"
+    "last_notified_time": "2023-08-07T11:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "37YN5qqcPeD5WWd7ZLQePV",
@@ -712,7 +744,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T17:45:17.602321-04:00",
-    "last_notified_time": "2023-08-07T12:00:00-04:00"
+    "last_notified_time": "2023-08-07T12:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "g5VUheQ35TxSYrJKsh2MgE",
@@ -733,7 +766,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T12:29:25.090394-04:00",
-    "last_notified_time": "2023-08-07T12:20:00-04:00"
+    "last_notified_time": "2023-08-07T12:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "WosKNXzmxPCEH8Fxv96q4G",
@@ -754,7 +788,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T13:21:58.321262-04:00",
-    "last_notified_time": "2023-08-07T12:50:00-04:00"
+    "last_notified_time": "2023-08-07T12:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "9sqJJog7ZQMNVzpzwZXzH6",
@@ -775,7 +810,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:28:43.782727-04:00",
-    "last_notified_time": "2023-08-07T13:10:00-04:00"
+    "last_notified_time": "2023-08-07T13:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "QauNygMh7RBpGcn6G7GRfy",
@@ -796,7 +832,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T14:19:48.433583-04:00",
-    "last_notified_time": "2023-08-07T13:30:00-04:00"
+    "last_notified_time": "2023-08-07T13:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "W3w5yjr46LxJ4fvF74KjBo",
@@ -817,7 +854,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T18:04:19.870663-04:00",
-    "last_notified_time": "2023-08-07T13:50:00-04:00"
+    "last_notified_time": "2023-08-07T13:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "TVyQmdM4Xk2EY9qe7YV8U2",
@@ -838,7 +876,8 @@
     "technique_label": "Breast VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T17:22:41.505272-04:00",
-    "last_notified_time": "2023-08-07T07:05:00-04:00"
+    "last_notified_time": "2023-08-07T07:05:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "KxFx9VSGmqK9Ae433mrWG2",
@@ -881,7 +920,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:39:14.561961-04:00",
-    "last_notified_time": "2023-08-07T07:50:00-04:00"
+    "last_notified_time": "2023-08-07T07:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "dpx6S3ovyo6zW7NEKqtGX4",
@@ -902,7 +942,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-20T10:14:56.981655-04:00",
-    "last_notified_time": "2023-08-07T08:10:00-04:00"
+    "last_notified_time": "2023-08-07T08:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "iqM9o9vjHr6QuLPtnHWyiA",
@@ -923,7 +964,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:29:06.364116-04:00",
-    "last_notified_time": "2023-08-07T08:30:00-04:00"
+    "last_notified_time": "2023-08-07T08:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "7BajF7anCckuHoQqcFynkz",
@@ -944,7 +986,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T16:02:20.186228-04:00",
-    "last_notified_time": "2023-08-07T08:50:00-04:00"
+    "last_notified_time": "2023-08-07T08:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "6XfWj2vJ5s8258MJUYvusY",
@@ -965,7 +1008,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:54:16.597434-04:00",
-    "last_notified_time": "2023-08-07T09:10:00-04:00"
+    "last_notified_time": "2023-08-07T09:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "SLh6QUzmieQuqsJmCG3kpT",
@@ -986,7 +1030,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T13:47:06.321925-04:00",
-    "last_notified_time": "2023-08-07T09:30:00-04:00"
+    "last_notified_time": "2023-08-07T09:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "BVUENwj7QYsHQR5SWHnE9Q",
@@ -1007,7 +1052,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T09:24:44.825270-04:00",
-    "last_notified_time": "2023-08-07T09:50:00-04:00"
+    "last_notified_time": "2023-08-07T09:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "NvtzhnobAkERZiRHpKsHhs",
@@ -1028,7 +1074,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:28:04.620267-04:00",
-    "last_notified_time": "2023-08-07T10:20:00-04:00"
+    "last_notified_time": "2023-08-07T10:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "YtiRuucUHXzLQWwPP5y38y",
@@ -1049,7 +1096,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T11:08:56.185927-04:00",
-    "last_notified_time": "2023-08-07T10:40:00-04:00"
+    "last_notified_time": "2023-08-07T10:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "mAT5AJaHTjNvbfWpEDmRDz",
@@ -1070,7 +1118,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:02:53.232056-04:00",
-    "last_notified_time": "2023-08-07T11:10:00-04:00"
+    "last_notified_time": "2023-08-07T11:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "NaifxyNdwBwNBPbMXzjjJA",
@@ -1091,7 +1140,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:43:51.798897-04:00",
-    "last_notified_time": "2023-08-07T11:40:00-04:00"
+    "last_notified_time": "2023-08-07T11:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "JZkx2VFimtrACVCMYW3em3",
@@ -1112,7 +1162,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-12T17:06:20.699484-04:00",
-    "last_notified_time": "2023-08-07T12:00:00-04:00"
+    "last_notified_time": "2023-08-07T12:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "HmKe9NTuPPCmpk3kFv7ikf",
@@ -1133,7 +1184,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-12T17:13:43.279722-04:00",
-    "last_notified_time": "2023-08-07T12:30:00-04:00"
+    "last_notified_time": "2023-08-07T12:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "LnFBomnM296Gx2fdYdsPsi",
@@ -1154,7 +1206,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-12T17:44:35.344150-04:00",
-    "last_notified_time": "2023-08-07T12:50:00-04:00"
+    "last_notified_time": "2023-08-07T12:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "JUk3VX8MAVhpRjtZPXkxh4",
@@ -1175,7 +1228,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T13:57:51.725234-04:00",
-    "last_notified_time": "2023-08-07T13:10:00-04:00"
+    "last_notified_time": "2023-08-07T13:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "UjQWas2vqbA6JNdy42jC4M",
@@ -1196,7 +1250,8 @@
     "technique_label": "Breast VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T17:27:45.875265-04:00",
-    "last_notified_time": "2023-08-07T13:30:00-04:00"
+    "last_notified_time": "2023-08-07T13:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "ghdRComZPyhmJFeJqLEmpg",
@@ -1217,7 +1272,8 @@
     "technique_label": "Breast VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T16:47:57.763463-04:00",
-    "last_notified_time": "2023-08-07T13:50:00-04:00"
+    "last_notified_time": "2023-08-07T13:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "WoUx6nY96hg75do4KLFxzS",
@@ -1238,7 +1294,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T09:12:50.960037-04:00",
-    "last_notified_time": "2023-08-07T14:30:00-04:00"
+    "last_notified_time": "2023-08-07T14:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "NGRxbhy4xNErsJfkSPMkdR",
@@ -1259,7 +1316,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:17:51.469291-04:00",
-    "last_notified_time": "2023-08-07T15:10:00-04:00"
+    "last_notified_time": "2023-08-07T15:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Jx8Qcp4fXW4FrggynwTWx4",
@@ -1280,7 +1338,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:37:43.245721-04:00",
-    "last_notified_time": "2023-08-07T15:50:00-04:00"
+    "last_notified_time": "2023-08-07T15:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "2tXWm3BhVgG3XYQzXzmpv6",
@@ -1301,7 +1360,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:54:16.576543-04:00",
-    "last_notified_time": "2023-08-07T16:10:00-04:00"
+    "last_notified_time": "2023-08-07T16:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "RMMK2Rsek45pjanBDWoveq",
@@ -1322,7 +1382,8 @@
     "technique_label": "Breast VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T15:33:03.137149-04:00",
-    "last_notified_time": "2023-08-07T16:30:00-04:00"
+    "last_notified_time": "2023-08-07T16:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "iTkwCA4ZXvPydtzuAbgCCu",
@@ -1343,7 +1404,8 @@
     "technique_label": "Brain TPMR No Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T17:03:07.746665-04:00",
-    "last_notified_time": "2023-08-07T11:40:00-04:00"
+    "last_notified_time": "2023-08-07T11:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "YPQr4PvWaisAsuuGcbSv7S",
@@ -1364,7 +1426,8 @@
     "technique_label": "Brain TPMR IV Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T16:52:09.926151-04:00",
-    "last_notified_time": "2023-08-07T12:25:00-04:00"
+    "last_notified_time": "2023-08-07T12:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "cZNXeTqqJ3g22FHYYwwvZF",
@@ -1385,7 +1448,8 @@
     "technique_label": "Brain TPMR No Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T17:07:39.864856-04:00",
-    "last_notified_time": "2023-08-07T13:25:00-04:00"
+    "last_notified_time": "2023-08-07T13:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "KnJdD6HEtZY33YKWfwGpbN",
@@ -1406,7 +1470,8 @@
     "technique_label": "Prostate TPMR No Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T17:31:12.797510-04:00",
-    "last_notified_time": "2023-08-07T14:10:00-04:00"
+    "last_notified_time": "2023-08-07T14:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "ANxUdTz7BL3coe3LqD5BFS",
@@ -1427,7 +1492,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-20T12:34:57.613865-04:00",
-    "last_notified_time": "2023-08-07T07:00:00-04:00"
+    "last_notified_time": "2023-08-07T07:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "PSfT9rzkixKiFfpiZBZDzA",
@@ -1448,7 +1514,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-20T12:14:32.257531-04:00",
-    "last_notified_time": "2023-08-07T07:20:00-04:00"
+    "last_notified_time": "2023-08-07T07:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "97cxb2JUFMuuSsLFW76w9K",
@@ -1469,7 +1536,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T15:43:31.998112-04:00",
-    "last_notified_time": "2023-08-07T07:40:00-04:00"
+    "last_notified_time": "2023-08-07T07:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "hSNczYyVkR9Soq6kJVyE5y",
@@ -1490,7 +1558,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:54:13.496356-04:00",
-    "last_notified_time": "2023-08-07T07:55:00-04:00"
+    "last_notified_time": "2023-08-07T07:55:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Zn8SuPj22rryGqWEyAKWa2",
@@ -1511,7 +1580,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T11:19:11.207385-04:00",
-    "last_notified_time": "2023-08-07T08:15:00-04:00"
+    "last_notified_time": "2023-08-07T08:15:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "GHfdiUp5bHnwu3TENmGEPC",
@@ -1532,7 +1602,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-20T11:39:45.420970-04:00",
-    "last_notified_time": "2023-08-07T08:30:00-04:00"
+    "last_notified_time": "2023-08-07T08:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "aYfqh5BT8ZNExzQTs3wGPu",
@@ -1553,7 +1624,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T09:30:19.230910-04:00",
-    "last_notified_time": "2023-08-07T08:50:00-04:00"
+    "last_notified_time": "2023-08-07T08:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "6QFZCiDk6JxMHmbRkqjfXv",
@@ -1574,7 +1646,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T09:34:34.691416-04:00",
-    "last_notified_time": "2023-08-07T09:10:00-04:00"
+    "last_notified_time": "2023-08-07T09:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Kau8YYtbA2DV9fPpBsV9ff",
@@ -1595,7 +1668,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T11:23:06.530437-04:00",
-    "last_notified_time": "2023-08-07T09:40:00-04:00"
+    "last_notified_time": "2023-08-07T09:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "fB7eRJBkHzsAKcciWZqMoh",
@@ -1616,7 +1690,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T13:06:57.198197-04:00",
-    "last_notified_time": "2023-08-07T10:00:00-04:00"
+    "last_notified_time": "2023-08-07T10:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "78Ymib5hUDfgEBKfoZJ26B",
@@ -1637,7 +1712,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-23T14:36:53.905898-04:00",
-    "last_notified_time": "2023-08-07T10:20:00-04:00"
+    "last_notified_time": "2023-08-07T10:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "UczjwcqzcR3ZAysVTN7ko6",
@@ -1658,7 +1734,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:17:43.574403-04:00",
-    "last_notified_time": "2023-08-07T10:40:00-04:00"
+    "last_notified_time": "2023-08-07T10:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "nTPm69gxwm3Swhady6VLcU",
@@ -1679,7 +1756,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T13:28:00.462302-04:00",
-    "last_notified_time": "2023-08-07T11:00:00-04:00"
+    "last_notified_time": "2023-08-07T11:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "JYQcQDZCMm8MFTiAdTDpD8",
@@ -1700,7 +1778,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:44:03.655561-04:00",
-    "last_notified_time": "2023-08-07T12:00:00-04:00"
+    "last_notified_time": "2023-08-07T12:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "NYUJNQc3WutKTosKZSyoeE",
@@ -1721,7 +1800,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:43:05.952771-04:00",
-    "last_notified_time": "2023-08-07T12:20:00-04:00"
+    "last_notified_time": "2023-08-07T12:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "bFhYsHYorqc6RTNurRqsj4",
@@ -1742,7 +1822,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-23T14:27:27.888046-04:00",
-    "last_notified_time": "2023-08-07T13:50:00-04:00"
+    "last_notified_time": "2023-08-07T13:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "aWDUGnX4TA68zz5QPoHS3J",
@@ -1763,7 +1844,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:54:13.481300-04:00",
-    "last_notified_time": "2023-08-07T14:10:00-04:00"
+    "last_notified_time": "2023-08-07T14:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "DNQneWKq4NehtMWwih9MLV",
@@ -1784,7 +1866,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T13:12:24.102060-04:00",
-    "last_notified_time": "2023-08-07T14:30:00-04:00"
+    "last_notified_time": "2023-08-07T14:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "jgyAhoPbu6wkhGkLvx4GyJ",
@@ -1805,7 +1888,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T15:57:05.703187-04:00",
-    "last_notified_time": "2023-08-07T14:50:00-04:00"
+    "last_notified_time": "2023-08-07T14:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "LA4D2mPMpfTFkdsMpGGvVP",
@@ -1826,7 +1910,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T09:30:19.215949-04:00",
-    "last_notified_time": "2023-08-07T15:10:00-04:00"
+    "last_notified_time": "2023-08-07T15:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "QDyZJXwPvV3AE6fysEX3Tc",
@@ -1847,7 +1932,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-23T15:02:32.268525-04:00",
-    "last_notified_time": "2023-08-07T15:30:00-04:00"
+    "last_notified_time": "2023-08-07T15:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "dLrmcD4AvqirCxCNfvaAvG",
@@ -1868,7 +1954,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T11:57:41.897930-04:00",
-    "last_notified_time": "2023-08-07T15:50:00-04:00"
+    "last_notified_time": "2023-08-07T15:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "BTeoyY4DMTfeEpa3KxGYzK",
@@ -1889,7 +1976,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T16:13:59.063605-04:00",
-    "last_notified_time": "2023-08-07T16:10:00-04:00"
+    "last_notified_time": "2023-08-07T16:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "9rdwxzJTgYFrj6Dw3rJXX4",
@@ -1910,7 +1998,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T16:04:55.312987-04:00",
-    "last_notified_time": "2023-08-07T08:05:00-04:00"
+    "last_notified_time": "2023-08-07T08:05:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "LAomXb3EhEMcEDjH3JxyKS",
@@ -1931,7 +2020,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T15:44:53.413547-04:00",
-    "last_notified_time": "2023-08-07T08:25:00-04:00"
+    "last_notified_time": "2023-08-07T08:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "gf2MxaQZn6RyM8N3G4QRwb",
@@ -1952,7 +2042,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T13:00:06.421383-04:00",
-    "last_notified_time": "2023-08-07T08:45:00-04:00"
+    "last_notified_time": "2023-08-07T08:45:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "QADMxCFCFHacS5wUmX4sYW",
@@ -1973,7 +2064,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T12:24:18.662000-04:00",
-    "last_notified_time": "2023-08-07T09:05:00-04:00"
+    "last_notified_time": "2023-08-07T09:05:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "J4GP4mUT9oPKo6cHfDH9F9",
@@ -1994,7 +2086,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T16:45:00.199710-04:00",
-    "last_notified_time": "2023-08-07T09:35:00-04:00"
+    "last_notified_time": "2023-08-07T09:35:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "awtmiFUJ9o9pcrPGCpjeAj",
@@ -2015,7 +2108,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T10:29:33.608039-04:00",
-    "last_notified_time": "2023-08-07T09:55:00-04:00"
+    "last_notified_time": "2023-08-07T09:55:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "YDp6PQatfQUKBtQE2jUydi",
@@ -2036,7 +2130,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:08:43.475831-04:00",
-    "last_notified_time": "2023-08-07T10:10:00-04:00"
+    "last_notified_time": "2023-08-07T10:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "ZkpcC6A8HDhzhF8iq8AdXg",
@@ -2057,7 +2152,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:57:55.884464-04:00",
-    "last_notified_time": "2023-08-07T11:30:00-04:00"
+    "last_notified_time": "2023-08-07T11:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "CpRQJ2axERwUJH4EjfR69g",
@@ -2078,7 +2174,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-13T16:38:40.752034-04:00",
-    "last_notified_time": "2023-08-07T12:00:00-04:00"
+    "last_notified_time": "2023-08-07T12:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "QkfpNekkrvn5j7gBmgDanx",
@@ -2099,7 +2196,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T16:49:11.195929-04:00",
-    "last_notified_time": "2023-08-07T12:50:00-04:00"
+    "last_notified_time": "2023-08-07T12:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "iZWWrE7Q4UN6Em8dEFcPRd",
@@ -2120,7 +2218,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T17:34:48.638729-04:00",
-    "last_notified_time": "2023-08-07T13:25:00-04:00"
+    "last_notified_time": "2023-08-07T13:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "49x8f24SjxuC2vaTvyZTVA",
@@ -2141,7 +2240,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:33:13.564896-04:00",
-    "last_notified_time": "2023-08-07T07:00:00-04:00"
+    "last_notified_time": "2023-08-07T07:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "5Jyniu6jKepUYSxxStMW4T",
@@ -2162,7 +2262,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-20T14:24:55.555796-04:00",
-    "last_notified_time": "2023-08-07T07:20:00-04:00"
+    "last_notified_time": "2023-08-07T07:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "mXUHEUr6ocFoqwXd23S8GU",
@@ -2183,7 +2284,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T13:55:10.140412-04:00",
-    "last_notified_time": "2023-08-07T07:40:00-04:00"
+    "last_notified_time": "2023-08-07T07:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "DVQATX9NAPx6HDn7rSLbFU",
@@ -2204,7 +2306,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T10:19:47.063925-04:00",
-    "last_notified_time": "2023-08-07T08:10:00-04:00"
+    "last_notified_time": "2023-08-07T08:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Vs8xnYWnKQbg6xkBpNjDUr",
@@ -2225,7 +2328,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T09:23:11.880035-04:00",
-    "last_notified_time": "2023-08-07T08:30:00-04:00"
+    "last_notified_time": "2023-08-07T08:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "oJTiXkw5zeKTgt8aG2huhg",
@@ -2246,7 +2350,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-23T15:37:28.843369-04:00",
-    "last_notified_time": "2023-08-07T09:00:00-04:00"
+    "last_notified_time": "2023-08-07T09:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Sy7yDVNxkfv9BjDXaUkjWW",
@@ -2267,7 +2372,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:08:54.428221-04:00",
-    "last_notified_time": "2023-08-07T09:20:00-04:00"
+    "last_notified_time": "2023-08-07T09:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "5nRAfvQVQprwvJtb94xohq",
@@ -2288,7 +2394,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:27:52.564440-04:00",
-    "last_notified_time": "2023-08-07T09:40:00-04:00"
+    "last_notified_time": "2023-08-07T09:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "erjFwDU3UrcVNRVF5dkPNZ",
@@ -2309,7 +2416,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T09:39:51.299658-04:00",
-    "last_notified_time": "2023-08-07T10:30:00-04:00"
+    "last_notified_time": "2023-08-07T10:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "CAfe7QQ4y2Mpx5ZmFysQbV",
@@ -2330,7 +2438,8 @@
     "technique_label": "Spine VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:33:05.429691-04:00",
-    "last_notified_time": "2023-08-07T10:50:00-04:00"
+    "last_notified_time": "2023-08-07T10:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "bJcaJDcWFgkBymYB7pNpea",
@@ -2351,7 +2460,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T12:54:26.843995-04:00",
-    "last_notified_time": "2023-08-07T11:25:00-04:00"
+    "last_notified_time": "2023-08-07T11:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "nhrtY3NncUMUuExKeMH2HE",
@@ -2372,7 +2482,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T21:30:15.982464-04:00",
-    "last_notified_time": "2023-08-07T11:40:00-04:00"
+    "last_notified_time": "2023-08-07T11:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "E2z3AdWh2uL6DVqFWjRyna",
@@ -2393,7 +2504,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T19:13:12.206588-04:00",
-    "last_notified_time": "2023-08-07T12:00:00-04:00"
+    "last_notified_time": "2023-08-07T12:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "4wHTndSaGmdZ3nTh2PCp2g",
@@ -2414,7 +2526,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T13:17:59.993232-04:00",
-    "last_notified_time": "2023-08-07T12:40:00-04:00"
+    "last_notified_time": "2023-08-07T12:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "g5sGgZ2HcKmPv54j3tcqh5",
@@ -2435,7 +2548,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-21T13:42:06.733289-04:00",
-    "last_notified_time": "2023-08-07T13:10:00-04:00"
+    "last_notified_time": "2023-08-07T13:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "np3RbsMG7YR2yjhdJLomXQ",
@@ -2456,7 +2570,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T12:44:25.656422-04:00",
-    "last_notified_time": "2023-08-07T13:35:00-04:00"
+    "last_notified_time": "2023-08-07T13:35:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "NU3sZzxk62uTWuRPvCsrcu",
@@ -2477,7 +2592,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T17:29:09.564163-04:00",
-    "last_notified_time": "2023-08-07T14:10:00-04:00"
+    "last_notified_time": "2023-08-07T14:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "o95iiDy6YDdMHwBZwLsDVq",
@@ -2498,7 +2614,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T18:54:28.260545-04:00",
-    "last_notified_time": "2023-08-07T07:00:00-04:00"
+    "last_notified_time": "2023-08-07T07:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "fxQVgEycmQ9Ao76dqCapDj",
@@ -2519,7 +2636,8 @@
     "technique_label": "Prostate SBRT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:52:19.730081-04:00",
-    "last_notified_time": "2023-08-07T08:00:00-04:00"
+    "last_notified_time": "2023-08-07T08:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "hHJqFwvj7AyTckYZtGtah5",
@@ -2540,7 +2658,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:58:18.977209-04:00",
-    "last_notified_time": "2023-08-07T08:20:00-04:00"
+    "last_notified_time": "2023-08-07T08:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "4TEpCYCMGifDiEV676DRhp",
@@ -2561,7 +2680,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T09:08:36.556985-04:00",
-    "last_notified_time": "2023-08-07T09:00:00-04:00"
+    "last_notified_time": "2023-08-07T09:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "N3t4pwiQkid6zvfcTe4QTY",
@@ -2582,7 +2702,8 @@
     "technique_label": "Prostate SBRT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T13:52:21.236031-04:00",
-    "last_notified_time": "2023-08-07T09:20:00-04:00"
+    "last_notified_time": "2023-08-07T09:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "oUdc36bGUCPp8LAki2mHQK",
@@ -2603,7 +2724,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:13:59.292308-04:00",
-    "last_notified_time": "2023-08-07T09:40:00-04:00"
+    "last_notified_time": "2023-08-07T09:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "EWoshxfcfABL8aXTqS8aNe",
@@ -2624,7 +2746,8 @@
     "technique_label": "Lung SBRT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T11:42:18.521401-04:00",
-    "last_notified_time": "2023-08-07T10:40:00-04:00"
+    "last_notified_time": "2023-08-07T10:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "c5ScY4ojRQczGioFCBhzY8",
@@ -2645,7 +2768,8 @@
     "technique_label": "Prostate SBRT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-13T16:20:06.890655-04:00",
-    "last_notified_time": "2023-08-07T11:00:00-04:00"
+    "last_notified_time": "2023-08-07T11:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Hy3yQqvcURQUV3PtXdPwtZ",
@@ -2666,7 +2790,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-13T16:35:50.908980-04:00",
-    "last_notified_time": "2023-08-07T11:20:00-04:00"
+    "last_notified_time": "2023-08-07T11:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "ntC99TBXBne4PoDjHGPd4r",
@@ -2687,7 +2812,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:34:02.365271-04:00",
-    "last_notified_time": "2023-08-07T12:40:00-04:00"
+    "last_notified_time": "2023-08-07T12:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "4wF4fbCPS6GuFA2JtjhrQt",
@@ -2708,7 +2834,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T19:15:11.013808-04:00",
-    "last_notified_time": "2023-08-07T13:00:00-04:00"
+    "last_notified_time": "2023-08-07T13:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "em2LYU7oeB3vpDXXJBUtHv",
@@ -2729,7 +2856,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T18:29:21.498763-04:00",
-    "last_notified_time": "2023-08-07T13:20:00-04:00"
+    "last_notified_time": "2023-08-07T13:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "QkCA5HD9AfJCDBtdYs77EU",
@@ -2750,7 +2878,8 @@
     "technique_label": "Prostate SBRT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:47:17.493706-04:00",
-    "last_notified_time": "2023-08-07T13:50:00-04:00"
+    "last_notified_time": "2023-08-07T13:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "ZhWHYV79NKa2qcK6JsEdFv",
@@ -2771,7 +2900,8 @@
     "technique_label": "Prostate SBRT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T13:42:19.742316-04:00",
-    "last_notified_time": "2023-08-07T14:10:00-04:00"
+    "last_notified_time": "2023-08-07T14:10:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "dLaPoy8GhZbXp7gRF3feV2",
@@ -2792,7 +2922,8 @@
     "technique_label": "Lung SBRT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:42:21.798822-04:00",
-    "last_notified_time": "2023-08-07T14:30:00-04:00"
+    "last_notified_time": "2023-08-07T14:30:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "TBSS5sTaZ6sewSTdLWuRGc",
@@ -2813,7 +2944,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T06:53:12.899310-04:00",
-    "last_notified_time": "2023-08-07T15:40:00-04:00"
+    "last_notified_time": "2023-08-07T15:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "YyXLwQtgwwFxnikyem4rHp",
@@ -2834,7 +2966,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:13:59.272301-04:00",
-    "last_notified_time": "2023-08-07T16:00:00-04:00"
+    "last_notified_time": "2023-08-07T16:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "bmjsjSt7dNvFaWgQVgmZpb",
@@ -2877,7 +3010,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T13:48:06.410051-04:00",
-    "last_notified_time": "2023-08-07T07:50:00-04:00"
+    "last_notified_time": "2023-08-07T07:50:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "FdSFAq8vQWUstau9gVQ7hh",
@@ -2898,7 +3032,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:03:55.503098-04:00",
-    "last_notified_time": "2023-08-07T08:20:00-04:00"
+    "last_notified_time": "2023-08-07T08:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "aSnGNUP3z7qZfL5GW5RHP5",
@@ -2919,7 +3054,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T12:50:06.707469-04:00",
-    "last_notified_time": "2023-08-07T09:00:00-04:00"
+    "last_notified_time": "2023-08-07T09:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "bkUEbE6tXowizP2rCrZrwS",
@@ -2940,7 +3076,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T12:09:11.966601-04:00",
-    "last_notified_time": "2023-08-07T09:20:00-04:00"
+    "last_notified_time": "2023-08-07T09:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "bGG5k5QfgSH3LVTwAmZ45z",
@@ -2961,7 +3098,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:04:21.847012-04:00",
-    "last_notified_time": "2023-08-07T09:40:00-04:00"
+    "last_notified_time": "2023-08-07T09:40:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "kqV2JPwtWFT2um8h3EzLPt",
@@ -2982,7 +3120,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-13T08:16:39.134388-04:00",
-    "last_notified_time": "2023-08-07T10:00:00-04:00"
+    "last_notified_time": "2023-08-07T10:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "kTpXtXiaUVRza9ALqWhQ9s",
@@ -3003,7 +3142,8 @@
     "technique_label": "Pelvis VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T19:39:26.276306-04:00",
-    "last_notified_time": "2023-08-07T10:20:00-04:00"
+    "last_notified_time": "2023-08-07T10:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "LieKKtmZHqFmfJ7mF69reX",
@@ -3024,7 +3164,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T18:19:28.375306-04:00",
-    "last_notified_time": "2023-08-07T11:00:00-04:00"
+    "last_notified_time": "2023-08-07T11:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "XLz9Gq69A6V6bvDmbYbBb4",
@@ -3045,7 +3186,8 @@
     "technique_label": "Breast VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-06-13T08:14:24.389262-04:00",
-    "last_notified_time": "2023-08-07T11:20:00-04:00"
+    "last_notified_time": "2023-08-07T11:20:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "KUeD2YiBT6PUN2b4yAHsk6",
@@ -3066,7 +3208,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T17:14:19.495693-04:00",
-    "last_notified_time": "2023-08-07T11:55:00-04:00"
+    "last_notified_time": "2023-08-07T11:55:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "S85As7CA2Q3yPpJKr9VQgG",
@@ -3087,7 +3230,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T20:10:18.050937-04:00",
-    "last_notified_time": "2023-08-07T12:25:00-04:00"
+    "last_notified_time": "2023-08-07T12:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "6rRjeaZPqzAZnqpTZqEfKo",
@@ -3108,7 +3252,8 @@
     "technique_label": "Lung VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T21:40:18.360945-04:00",
-    "last_notified_time": "2023-08-07T12:45:00-04:00"
+    "last_notified_time": "2023-08-07T12:45:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "fvQdVaySP4SLFzB2iqdh7K",
@@ -3129,7 +3274,8 @@
     "technique_label": "Brain Short VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-23T14:02:20.500302-04:00",
-    "last_notified_time": "2023-08-07T13:25:00-04:00"
+    "last_notified_time": "2023-08-07T13:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "BQgCxBMeGGVEJ7HRSULCwE",
@@ -3150,7 +3296,8 @@
     "technique_label": "Prostate VMAT Supine Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T10:23:23.494471-04:00",
-    "last_notified_time": "2023-08-07T14:05:00-04:00"
+    "last_notified_time": "2023-08-07T14:05:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "hu7z7nxKAsMUyCKGd2t5m2",
@@ -3171,7 +3318,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:03:55.484001-04:00",
-    "last_notified_time": "2023-08-07T14:25:00-04:00"
+    "last_notified_time": "2023-08-07T14:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "fytDBjFxeCT2vFBWtLM42p",
@@ -3192,7 +3340,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-24T14:14:18.964972-04:00",
-    "last_notified_time": "2023-08-07T14:45:00-04:00"
+    "last_notified_time": "2023-08-07T14:45:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "HE2DXij6LVkn86YJnS8KHT",
@@ -3213,7 +3362,8 @@
     "technique_label": "H&N VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T14:09:08.226571-04:00",
-    "last_notified_time": "2023-08-07T15:15:00-04:00"
+    "last_notified_time": "2023-08-07T15:15:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "ThVWYUZoPDHe3xVDh3SHj9",
@@ -3234,7 +3384,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T07:22:52.512501-04:00",
-    "last_notified_time": "2023-08-07T15:35:00-04:00"
+    "last_notified_time": "2023-08-07T15:35:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "6SLYJUWE8fDVK3MHknLenv",
@@ -3255,7 +3406,8 @@
     "technique_label": "Brain Long VMAT Treatment",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T08:23:00.378671-04:00",
-    "last_notified_time": "2023-08-07T16:05:00-04:00"
+    "last_notified_time": "2023-08-07T16:05:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "UK4xLR33pXMYYuiRQndHMo",
@@ -3276,7 +3428,8 @@
     "technique_label": "Breast CT Supine",
     "time_constraint": null,
     "date_when_booked": "2025-03-28T08:24:33.837467-04:00",
-    "last_notified_time": "2023-08-07T08:15:00-04:00"
+    "last_notified_time": "2023-08-07T08:15:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "6m4Ge8DD9PkCwoYEorpTHQ",
@@ -3297,7 +3450,8 @@
     "technique_label": "Bone CT No Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-25T21:04:00.899561-04:00",
-    "last_notified_time": "2023-08-07T09:00:00-04:00"
+    "last_notified_time": "2023-08-07T09:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "cCBsHYkteuuySbbKy4aHrg",
@@ -3318,7 +3472,8 @@
     "technique_label": "Lung CT 4D IV Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T13:52:10.821048-04:00",
-    "last_notified_time": "2023-08-07T10:00:00-04:00"
+    "last_notified_time": "2023-08-07T10:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "7gBisGTSYcxraQtjQ5DaHM",
@@ -3339,7 +3494,8 @@
     "technique_label": "Breast CT Supine",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T16:46:43.620401-04:00",
-    "last_notified_time": "2023-08-07T11:00:00-04:00"
+    "last_notified_time": "2023-08-07T11:00:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "Lo5qSPpUBVFF4WQ49dmExp",
@@ -3360,7 +3516,8 @@
     "technique_label": "Brain CT IV Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T16:52:09.908355-04:00",
-    "last_notified_time": "2023-08-07T11:55:00-04:00"
+    "last_notified_time": "2023-08-07T11:55:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "S5c3GJqcnrcJriPGXcuYQK",
@@ -3381,7 +3538,8 @@
     "technique_label": "Brain CT No Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T17:03:07.728814-04:00",
-    "last_notified_time": "2023-08-07T12:25:00-04:00"
+    "last_notified_time": "2023-08-07T12:25:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "3CpTPGxSrWCXBAZNmFnMBH",
@@ -3402,7 +3560,8 @@
     "technique_label": "Brain CT No Contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T17:07:39.846205-04:00",
-    "last_notified_time": "2023-08-07T12:55:00-04:00"
+    "last_notified_time": "2023-08-07T12:55:00-04:00",
+    "overlap_allowed": false
   },
   {
     "id": "hAqtTtnfGzbgiaxVywwHLZ",
@@ -3423,6 +3582,7 @@
     "technique_label": "Prostate CT No contrast",
     "time_constraint": null,
     "date_when_booked": "2025-03-26T17:31:12.779788-04:00",
-    "last_notified_time": "2023-08-07T13:25:00-04:00"
+    "last_notified_time": "2023-08-07T13:25:00-04:00",
+    "overlap_allowed": false
   }
 ]
