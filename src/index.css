@@ -1,5 +1,5 @@
-@import "tailwindcss";
-@import "tw-animate-css";
+@import 'tailwindcss';
+@import 'tw-animate-css';
 
 @custom-variant dark (&:is(.dark *));
 
@@ -116,5 +116,16 @@
   }
   body {
     @apply bg-background text-foreground;
+
+    .fc-list-event-time {
+      display: none !important;
+    }
+    .fc-list-event-dot {
+      display: none !important;
+    }
+    .fc .fc-list-day-cushion,
+    .fc .fc-list-table td {
+      padding: 0 !important;
+    }
   }
 }
